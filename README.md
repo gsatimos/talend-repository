@@ -19,3 +19,8 @@ Copy to talend install
 cd talend-repository
 cp -R repository /path_to_talend/configuration/.m2/
 ```
+
+#### create zip
+```
+zip -r tos7-imos-additional-packages.zip repository
+```
